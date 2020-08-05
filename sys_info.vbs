@@ -8,7 +8,7 @@ For Each objItem in objList
 	strModel = objItem.Model
 	
 	WScript.Echo "Domain: " & strDomain
-    WScript.Echo "Computer Name: " & strName
+	WScript.Echo "Computer Name: " & strName
 	WScript.Echo "Manufacturer: " & strManu
 	WScript.Echo "Model: " & strModel
 Next
